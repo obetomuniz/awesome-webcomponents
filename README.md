@@ -91,6 +91,14 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [Web Reflection: A W3C Custom Elements Alternative](http://webreflection.blogspot.com.br/2014/07/a-w3c-custom-elements-alternative.html) by Web Reflection.
 * [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/).
+* [Vulcanize](https://github.com/Polymer/vulcanize) by Polymer Project.
+* [Web Components Tester](https://github.com/Polymer/web-component-tester) by Polymer Project.
+* [Element Generator for Slush](https://github.com/webcomponents/slush-element) by WebComponents.org.
+* [Element Generator for Yeoman](https://github.com/webcomponents/generator-element) by WebComponents.org.
+* [webcomponents.js](http://webcomponents.org/polyfills/) by WebComponents.org.
+* [Ele](https://ele.io/).
+* [CustomElements.io](http://customelements.io/).
+* [Component Kitchen](http://component.kitchen/).
 
 ## Libraries and Frameworks
 
@@ -123,3 +131,27 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [The Polymer approach to building single page applications](https://www.polymer-project.org/0.5/articles/spa.html) by Eric Bidelman.
 * [PolymerSnippets](https://github.com/robdodson/PolymerSnippets) by Rob Dodson.
 * [Creating a Polymer Chat App with Material Design](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/) by Tomomi Imura.
+* [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/).
+* [Built with Polymer](http://builtwithpolymer.org/).
+
+## Components
+
+*Some Web Components*
+
+* [Github Time Elements](https://github.com/github/time-elements) by GitHub.
+
+## WebComponents.org
+
+*A selection of from WebComponents.org resources*
+
+* [Hello Worlds]
+    * [Using Polymer](https://github.com/webcomponents/hello-world-polymer).
+    * [Using X-Tags](https://github.com/webcomponents/hello-world-xtag).
+    * [Using VanillaJS](https://github.com/webcomponents/hello-world-element). 
+* [Boilerplates]
+    * [Using Polymer](https://github.com/webcomponents/polymer-boilerplate).
+    * [Using X-Tags](https://github.com/webcomponents/x-tag-boilerplate).
+    * [Using VanillaJS](https://github.com/webcomponents/element-boilerplate). 
+* [Podcasts](http://webcomponents.org/podcasts/).
+* [Articles](http://webcomponents.org/articles/).
+* [Presentations](http://webcomponents.org/presentations/).

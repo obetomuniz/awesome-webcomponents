@@ -148,6 +148,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Creating a Polymer Chat App with Material Design](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/) by Tomomi Imura.
 * [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/).
 * [Built with Polymer](http://builtwithpolymer.org/).
+* [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:
 
 ## Components
 

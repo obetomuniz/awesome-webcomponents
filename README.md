@@ -10,9 +10,12 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Acessibility](#acessibility)
     - [Presentations](#presentations)
     - [Articles](#articles)
-    - [Tools](#tools)
+    - [Web Tools](#web-tools)
+    - [Libraries and Frameworks](#libraries-and-frameworks)
+        - [Bosonic](#bosonic)
+        - [X-tags](#x-tags)
+        - [Polymer](#polymer)
     - [Components](#components)
-
 
 ## Standards
 
@@ -22,6 +25,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Custom Elements](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Eric Bidelman.
 * [Can I use Web Components?](http://caniuse.com/#search=web%20components).
 * [Introduction to HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/) by Eiji Kitamura.
+* [Best Practice for Creating Custom Elements](http://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/).
 
 ## Guides
 
@@ -33,6 +37,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Web Components: Introdução (pt-br)](http://tableless.com.br/web-components-introducao/) by Diego Eis.
 * [EXTENDING THE WEB WITH COMPONENTS](http://html5hub.com/extending-the-web-with-components/#i.1in3tsi34tfhwy) by Martin Naumann.
 * [Web Components](http://blog.romanliutikov.com/post/62104274790/web-components)
+* [A Guide to Styling Elements](https://www.polymer-project.org/0.5/articles/styling-elements.html) by Eric Bidelman .
 
 ## Interop
 
@@ -69,3 +74,52 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Introduction to Web Components](http://slides.com/jasonmayes/introduction-to-web-components#/) by Jason Mayes.
 * [Componentizando a Web com Polymer (pt-br)](http://www.slideshare.net/horochovec/componentizando-a-web-com-polymer) by Stefan Horochovec.
 * [Polymer: building modern apps on web components](http://html5-demos.appspot.com/static/polymer/index.html#1) by Eric Bidelman.
+
+## Presentations
+
+*Articles about Web Components*
+
+* [Why Web Components Aren’t Ready for Production… Yet](http://developer.telerik.com/featured/web-components-arent-ready-production-yet/) by TJ VanToll.
+* [Why Web Components Are Ready For Production](http://developer.telerik.com/featured/web-components-ready-production/) by TJ VanToll.
+* [The State of the Componentised Web](http://www.futureinsights.com/home/the-state-of-the-componentised-web.html) by Ian Murphy.
+* [Shadow DOM CSS Cheat Sheet](http://robdodson.me/shadow-dom-css-cheat-sheet/) by Rob Dodson.
+* [Web Components – The Future Web](http://thejackalofjavascript.com/web-components-future-web/) by Arvind Ravulavaru.
+
+## Web Tools
+
+*Some web tools related to Web Components*
+
+* [Web Reflection: A W3C Custom Elements Alternative](http://webreflection.blogspot.com.br/2014/07/a-w3c-custom-elements-alternative.html) by Web Reflection.
+* [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/).
+
+## Libraries and Frameworks
+
+### Bosonic
+
+* [Bosonic Site](http://bosonic.github.io/).
+
+### X-Tags
+
+* [X-tags Site](http://www.x-tags.org/) by Mozilla.
+* [Brick](http://brick.mozilla.io/) by Mozilla.
+
+### Polymer
+
+* [Polymer Project](http://bosonic.github.io/) by Google.
+* [Join the Web Components revolution with Polymer](http://www.ibm.com/developerworks/library/wa-polymer/) by Sing Li.
+* [Introduction to Polymer: The Next Generation of Web Development](https://www.youtube.com/watch?v=8-Zq2KUN6jM) by Matthew McNulty.
+* [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) by Rob Dodson.
+* [Polymer and the Web Components revolution](https://www.youtube.com/watch?v=yRbOSdAe_JU) by Matt McNulty.
+* [Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) by Eric Bidelman.
+* [Using Polymer to Create Web Components](http://code.tutsplus.com/tutorials/using-polymer-to-create-web-components--cms-20475) by Rey Bango.
+* [Sharing Polymer Components: Part 1](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-1--cms-21264) by Rey Bango.
+* [Sharing Polymer Components: Part 2](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-2--cms-21497) by Rey Bango.
+* [Inheritance and composition with Polymer](http://pascalprecht.github.io/2014/07/14/inheritance-and-composition-with-polymer/) by Pascal Precht.
+* [Creating responsive UIs](https://www.youtube.com/watch?v=svfu9iQ8cyg&feature=youtu.be) by Rob Dodson.
+* [Making Web Components accessible](https://www.youtube.com/watch?v=_IBiXfxhF-A) by Alice Boxhall.
+* [Hello Polymer: Q&A with Google’s Polymer team](http://www.2ality.com/2013/07/hello-polymer.html) by Dr. Axel Rauschmayer.
+* [Google’s Polymer and the future of web UI frameworks](http://www.2ality.com/2013/05/google-polymer.html) by Dr. Axel Rauschmayer.
+* [What polymer and angular tell us about the future success of the web platform and javascript frameworks](http://blog.testdouble.com/posts/2013-06-26-what-polymer-and-angular-tell-us-about-the-future-success-of-the-web-platform-and-javascript-frameworks.html).
+* [The Polymer approach to building single page applications](https://www.polymer-project.org/0.5/articles/spa.html) by Eric Bidelman.
+* [PolymerSnippets](https://github.com/robdodson/PolymerSnippets) by Rob Dodson.
+* [Creating a Polymer Chat App with Material Design](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/) by Tomomi Imura.

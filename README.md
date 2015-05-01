@@ -155,6 +155,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 *Some Web Components*
 
 * [Github Time Elements](https://github.com/github/time-elements) by GitHub.
+* [Router Manager](https://github.com/erikringsmuth/app-router) by Erik Ringsmuth.
 
 ## WebComponents.org
 

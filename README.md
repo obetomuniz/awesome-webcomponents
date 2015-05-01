@@ -146,7 +146,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 ## WebComponents.org
 
-*A selection of from [WebComponents.org](http://webcomponents.org/) resources*
+*A selection of [WebComponents.org](http://webcomponents.org/) resources*
 
 * Hello World's
     * [Using Polymer](https://github.com/webcomponents/hello-world-polymer).

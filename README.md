@@ -22,6 +22,13 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 ## Web Standards
 
+*Specs*
+
+* [Custom Elements Specs](http://w3c.github.io/webcomponents/spec/custom/)
+* [HTML Imports Specs](http://w3c.github.io/webcomponents/spec/imports/)
+* [Templates Specs](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+* [Shadow DOM Specs](http://w3c.github.io/webcomponents/spec/shadow/)
+
 *Resources about the web standards under Web Components*
 
 * [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Agraj Mangal.
@@ -164,11 +171,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * Hello World's
     * [Using Polymer](https://github.com/webcomponents/hello-world-polymer).
     * [Using X-Tags](https://github.com/webcomponents/hello-world-xtag).
-    * [Using VanillaJS](https://github.com/webcomponents/hello-world-element). 
+    * [Using VanillaJS](https://github.com/webcomponents/hello-world-element).
 * Boilerplates
     * [Using Polymer](https://github.com/webcomponents/polymer-boilerplate).
     * [Using X-Tags](https://github.com/webcomponents/x-tag-boilerplate).
-    * [Using VanillaJS](https://github.com/webcomponents/element-boilerplate). 
+    * [Using VanillaJS](https://github.com/webcomponents/element-boilerplate).
 * [Podcasts](http://webcomponents.org/podcasts/).
 * [Articles](http://webcomponents.org/articles/).
 * [Presentations](http://webcomponents.org/presentations/).

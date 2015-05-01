@@ -16,6 +16,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [X-tags](#x-tags)
         - [Polymer](#polymer)
     - [Components](#components)
+    - [WebComponents.org](#webcomponentsorg)
 
 ## Standards
 

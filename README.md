@@ -77,8 +77,12 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Introduction to Web Components](http://slides.com/jasonmayes/introduction-to-web-components#/) by Jason Mayes.
 * [Componentizando a Web com Polymer (pt-br)](http://www.slideshare.net/horochovec/componentizando-a-web-com-polymer) by Stefan Horochovec.
 * [Polymer: building modern apps on web components](http://html5-demos.appspot.com/static/polymer/index.html#1) by Eric Bidelman.
+* [Polymer Elements: Tudo que você precisa saber para criar a web (pt-br)](https://speakerdeck.com/obetomuniz/polymer-elements-tudo-que-voce-precisa-saber-para-criar-a-web) by Beto Muniz.
+* [WebApps com Web Components (pt-br)](https://speakerdeck.com/obetomuniz/webapps-com-web-components) by Beto Muniz.
+* [Desmistificando o Polymer (pt-br)](https://speakerdeck.com/obetomuniz/desmistificando-o-polymer) by Beto Muniz.
+* [Web Components, A próxima revolução do desenvolvimento web (pt-br)](https://speakerdeck.com/obetomuniz/web-components-a-proxima-revolucao-do-desenvolvimento-web) by Beto Muniz.
 
-## Presentations
+## Articles
 
 *Articles about Web Components*
 
@@ -87,6 +91,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [The State of the Componentised Web](http://www.futureinsights.com/home/the-state-of-the-componentised-web.html) by Ian Murphy.
 * [Shadow DOM CSS Cheat Sheet](http://robdodson.me/shadow-dom-css-cheat-sheet/) by Rob Dodson.
 * [Web Components – The Future Web](http://thejackalofjavascript.com/web-components-future-web/) by Arvind Ravulavaru.
+* [Web Components! Hoje!](http://betomuniz.com/blog/web-components-hoje/) by Beto Muniz.
+* [Desmistificando o Polymer: Olá Polymer! (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-1/) by Beto Muniz.
+* [Desmistificando o Polymer: Porque o Polymer? (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-2/) by Beto Muniz.
+* [Desmistificando o Polymer: Polymer FAQ (unoffical) (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-3/) by Beto Muniz.
 
 ## Web Tools
 

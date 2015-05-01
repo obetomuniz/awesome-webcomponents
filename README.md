@@ -17,6 +17,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Polymer](#polymer)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
+    - [Twitter](#twitter)
+    - [Contributing](#contributing)
 
 ## Standards
 
@@ -100,6 +102,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Ele](https://ele.io/).
 * [CustomElements.io](http://customelements.io/).
 * [Component Kitchen](http://component.kitchen/).
+* [Web Components Weekly](http://webcomponentsweekly.me/) by Mateus Ortiz.
 
 ## Libraries and Frameworks
 
@@ -157,3 +160,28 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Articles](http://webcomponents.org/articles/).
 * [Presentations](http://webcomponents.org/presentations/).
 * [Github](https://github.com/webcomponents).
+
+## Twitter
+
+*[@polymer](https://twitter.com/polymer).
+*[@web_components](https://twitter.com/web_components).
+*[@ebidel](https://twitter.com/ebidel).
+*[@jkomoros](https://twitter.com/jkomoros).
+*[@zenorocha](https://twitter.com/zenorocha).
+*[@addyosmani](https://twitter.com/addyosmani).
+*[@PascalPrecht](https://twitter.com/PascalPrecht).
+*[@csuwildcat](https://twitter.com/csuwildcat).
+*[@rob_dodson](https://twitter.com/rob_dodson).
+*[@sindresorhus](https://twitter.com/sindresorhus).
+*[@eduardolundgren](https://twitter.com/eduardolundgren).
+*[@djalmaaraujo](https://twitter.com/djalmaaraujo).
+*[@passy](https://twitter.com/passy).
+*[@djalmaaraujo](https://twitter.com/djalmaaraujo).
+*[@Nevraeka](https://twitter.com/Nevraeka).
+*[@nevir](https://twitter.com/nevir).
+*[@keanulee](https://twitter.com/cironunes).
+*[@obetomuniz](https://twitter.com/obetomuniz).
+
+## Contributing
+
+Your contributions are always welcome!

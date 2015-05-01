@@ -3,7 +3,7 @@
 A curated list of awesome Web Components tools, articles and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/avelino/awesome-python).
 
 - [Awesome Web Components](#awesome-web-components)
-    - [Standards](#standards)
+    - [Web Standards](#web-standards)
     - [Guides](#guides)
     - [Interop](#interop)
     - [SEO](#seo)
@@ -20,9 +20,9 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Twitter](#twitter)
     - [Contributing](#contributing)
 
-## Standards
+## Web Standards
 
-*Resources about Web Standards under Web Components*
+*Resources about the web standards under Web Components*
 
 * [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Agraj Mangal.
 * [Custom Elements](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Eric Bidelman.

@@ -172,7 +172,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 ## Twitter
 
-*Who to follow?*
+*Who to follow*
 
 * [@polymer](https://twitter.com/polymer)
 * [@web_components](https://twitter.com/web_components)

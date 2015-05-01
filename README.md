@@ -25,7 +25,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 *Resources about the web standards under Web Components*
 
 * [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Agraj Mangal.
-* [Custom Elements](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Eric Bidelman.
+* [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) by Eric Bidelman.
 * [Can I use Web Components?](http://caniuse.com/#search=web%20components).
 * [Introduction to HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/) by Eiji Kitamura.
 * [Best Practice for Creating Custom Elements](http://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/).

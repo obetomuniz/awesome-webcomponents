@@ -8,9 +8,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Interop](#interop)
     - [SEO](#seo)
     - [Acessibility](#acessibility)
-    - [Talks](#talks)
+    - [Presentations](#presentations)
     - [Articles](#articles)
-    - [Vídeos](#videos)
     - [Tools](#tools)
     - [Components](#components)
 
@@ -59,3 +58,9 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Accessible Web Components](https://www.polymer-project.org/0.5/articles/accessible-web-components.html) by By Addy Osmani and Alice Boxhall.
 * [Notes on Web Components + ARIA](http://www.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/) by Steve Faulkner.
 * [Making Polymer Elements Accessible](http://webcomponents.org/presentations/making-polymer-elements-accessible/) by Alice Boxhall.
+
+## Presentations
+
+*Some presentations about Web Components*
+
+* [Web Components: A chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg) by Zeno Rocha.

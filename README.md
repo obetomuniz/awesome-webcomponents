@@ -115,6 +115,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 ## Libraries and Frameworks
 
+*Libraries and frameworks related with Web Components*
+
 ### Bosonic
 
 * [Bosonic Site](http://bosonic.github.io/).

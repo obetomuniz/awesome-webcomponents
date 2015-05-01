@@ -22,13 +22,6 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 ## Web Standards
 
-*Specs*
-
-* [Custom Elements Specs](http://w3c.github.io/webcomponents/spec/custom/)
-* [HTML Imports Specs](http://w3c.github.io/webcomponents/spec/imports/)
-* [Templates Specs](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-* [Shadow DOM Specs](http://w3c.github.io/webcomponents/spec/shadow/)
-
 *Resources about the web standards under Web Components*
 
 * [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Agraj Mangal.
@@ -36,6 +29,13 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Can I use Web Components?](http://caniuse.com/#search=web%20components).
 * [Introduction to HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/) by Eiji Kitamura.
 * [Best Practice for Creating Custom Elements](http://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/).
+
+## Specifications
+
+* [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/)
+* [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/)
+* [Templates](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+* [Shadow DOM](http://w3c.github.io/webcomponents/spec/shadow/)
 
 ## Guides
 

@@ -7,12 +7,12 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Guides](#guides)
     - [Interop](#interop)
     - [SEO](#seo)
-    - [Components](#components)
-    - [Tools](#tools)
     - [Acessibility](#acessibility)
     - [Talks](#talks)
     - [Articles](#articles)
     - [Vídeos](#videos)
+    - [Tools](#tools)
+    - [Components](#components)
 
 
 ## Standards
@@ -44,3 +44,18 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Plans for supporting Web Components in AngularJS and Ember.js](http://www.2ality.com/2013/05/web-components-angular-ember.html) by Dr. Axel Rauschmayer.
 * [Angular Custom Element](https://github.com/dgs700/angular-custom-element) by David Shapiro.
 * [Integrating Web Components with AngularJS](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) by Pascal Precht.
+
+## SEO
+
+*SEO and Web Components*
+
+* [Introducing Web Components and What It Means for Search Engine Optimization and Privacy](https://medium.com/cool-code-pal/introducing-web-components-and-what-it-means-for-search-engine-optimization-and-privacy-b21bfc1f63c7).
+
+## Acessibility
+
+*Acessibility and Web Components*
+
+* [Accessibility of Web Components](http://webcomponents.org/presentations/accessibility-of-web-components-at-jsconf-us/) by Marcy Sutton.
+* [Accessible Web Components](https://www.polymer-project.org/0.5/articles/accessible-web-components.html) by By Addy Osmani and Alice Boxhall.
+* [Notes on Web Components + ARIA](http://www.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/) by Steve Faulkner.
+* [Making Polymer Elements Accessible](http://webcomponents.org/presentations/making-polymer-elements-accessible/) by Alice Boxhall.

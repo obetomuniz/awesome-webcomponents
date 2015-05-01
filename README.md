@@ -145,11 +145,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 *A selection of from WebComponents.org resources*
 
-* [Hello Worlds]
+* Hello World's
     * [Using Polymer](https://github.com/webcomponents/hello-world-polymer).
     * [Using X-Tags](https://github.com/webcomponents/hello-world-xtag).
     * [Using VanillaJS](https://github.com/webcomponents/hello-world-element). 
-* [Boilerplates]
+* Boilerplates
     * [Using Polymer](https://github.com/webcomponents/polymer-boilerplate).
     * [Using X-Tags](https://github.com/webcomponents/x-tag-boilerplate).
     * [Using VanillaJS](https://github.com/webcomponents/element-boilerplate). 

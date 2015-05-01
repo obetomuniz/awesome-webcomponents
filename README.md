@@ -29,8 +29,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/) by Rob Dodson.
 * [How to Create Your Own HTML Elements With Web Components](http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524) by Kezz Bracey.
-* [Web Components é uma Revolução?](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao#.VULzLNNVhBe) by Akita.
-* [Web Components: Introdução](http://tableless.com.br/web-components-introducao/) by Diego Eis.
+* [Web Components é uma Revolução? (pt-br)](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao#.VULzLNNVhBe) by Akita.
+* [Web Components: Introdução (pt-br)](http://tableless.com.br/web-components-introducao/) by Diego Eis.
 * [EXTENDING THE WEB WITH COMPONENTS](http://html5hub.com/extending-the-web-with-components/#i.1in3tsi34tfhwy) by Martin Naumann.
 * [Web Components](http://blog.romanliutikov.com/post/62104274790/web-components)
 
@@ -64,3 +64,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 *Some presentations about Web Components*
 
 * [Web Components: A chance to create the future](https://www.youtube.com/watch?v=JUzjr1bIRUg) by Zeno Rocha.
+* [Web Components Shift: a tectonic shift for web development](http://www.webcomponentsshift.com/#1) by Eric Bidelman.
+* [Real World Web components](http://pt.slideshare.net/JarrodOverson/real-world-web-components) by Jarrod Overson.
+* [Introduction to Web Components](http://slides.com/jasonmayes/introduction-to-web-components#/) by Jason Mayes.
+* [Componentizando a Web com Polymer (pt-br)](http://www.slideshare.net/horochovec/componentizando-a-web-com-polymer) by Stefan Horochovec.
+* [Polymer: building modern apps on web components](http://html5-demos.appspot.com/static/polymer/index.html#1) by Eric Bidelman.

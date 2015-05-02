@@ -3,6 +3,7 @@
 A curated list of awesome Web Components tools, articles and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/avelino/awesome-python).
 
 - [Awesome Web Components](#awesome-web-components)
+    - [Specifications](#specifications)
     - [Web Standards](#web-standards)
     - [Guides](#guides)
     - [Interop](#interop)
@@ -20,6 +21,15 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Twitter](#twitter)
     - [Contributing](#contributing)
 
+## Specifications
+
+*Specifications of Web Components*
+
+* [Official Custom Elements Spec](http://w3c.github.io/webcomponents/spec/custom/)
+* [Official HTML Imports Spec](http://w3c.github.io/webcomponents/spec/imports/)
+* [Official Templates  Spec](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+* [Official Shadow DOM Spec](http://w3c.github.io/webcomponents/spec/shadow/)
+
 ## Web Standards
 
 *Resources about the web standards under Web Components*
@@ -29,15 +39,6 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Can I use Web Components?](http://caniuse.com/#search=web%20components).
 * [Introduction to HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/) by Eiji Kitamura.
 * [Best Practice for Creating Custom Elements](http://www.broken-links.com/2015/01/27/best-practice-creating-custom-elements/).
-
-## Specifications
-
-*Specifications of Web Components*
-
-* [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/)
-* [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/)
-* [Templates](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-* [Shadow DOM](http://w3c.github.io/webcomponents/spec/shadow/)
 
 ## Guides
 

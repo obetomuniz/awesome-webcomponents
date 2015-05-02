@@ -3,6 +3,7 @@
 A curated list of awesome Web Components tools, articles and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/avelino/awesome-python).
 
 - [Awesome Web Components](#awesome-web-components)
+    - [Specifications](#specifications)
     - [Web Standards](#web-standards)
     - [Guides](#guides)
     - [Interop](#interop)
@@ -19,6 +20,15 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [WebComponents.org](#webcomponentsorg)
     - [Twitter](#twitter)
     - [Contributing](#contributing)
+
+## Specifications
+
+*Specifications of Web Components*
+
+* [Official Custom Elements Spec](http://w3c.github.io/webcomponents/spec/custom/)
+* [Official HTML Imports Spec](http://w3c.github.io/webcomponents/spec/imports/)
+* [Official Templates  Spec](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+* [Official Shadow DOM Spec](http://w3c.github.io/webcomponents/spec/shadow/)
 
 ## Web Standards
 
@@ -164,11 +174,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * Hello World's
     * [Using Polymer](https://github.com/webcomponents/hello-world-polymer).
     * [Using X-Tags](https://github.com/webcomponents/hello-world-xtag).
-    * [Using VanillaJS](https://github.com/webcomponents/hello-world-element). 
+    * [Using VanillaJS](https://github.com/webcomponents/hello-world-element).
 * Boilerplates
     * [Using Polymer](https://github.com/webcomponents/polymer-boilerplate).
     * [Using X-Tags](https://github.com/webcomponents/x-tag-boilerplate).
-    * [Using VanillaJS](https://github.com/webcomponents/element-boilerplate). 
+    * [Using VanillaJS](https://github.com/webcomponents/element-boilerplate).
 * [Podcasts](http://webcomponents.org/podcasts/).
 * [Articles](http://webcomponents.org/articles/).
 * [Presentations](http://webcomponents.org/presentations/).

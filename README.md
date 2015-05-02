@@ -32,6 +32,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 ## Specifications
 
+*Specifications of Web Components*
+
 * [Custom Elements](http://w3c.github.io/webcomponents/spec/custom/)
 * [HTML Imports](http://w3c.github.io/webcomponents/spec/imports/)
 * [Templates](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)

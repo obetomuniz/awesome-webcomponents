@@ -16,6 +16,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Bosonic](#bosonic)
         - [X-tags](#x-tags)
         - [Polymer](#polymer)
+        - [Aurelia](#aurelia)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Twitter](#twitter)
@@ -159,6 +160,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/).
 * [Built with Polymer](http://builtwithpolymer.org/).
 * [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:
+
+### Aurelia
+
+* [Aurelia Site](http://aurelia.io/).
 
 ## Components
 

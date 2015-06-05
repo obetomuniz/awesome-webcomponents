@@ -107,6 +107,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Desmistificando o Polymer: Olá Polymer! (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-1/) by Beto Muniz.
 * [Desmistificando o Polymer: Porque o Polymer? (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-2/) by Beto Muniz.
 * [Desmistificando o Polymer: Polymer FAQ (unoffical) (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-3/) by Beto Muniz.
+* [Discoverability for Web Components](https://medium.com/@zenorocha/discoverability-for-web-components-72ce29f128b2) by Zeno Rocha.
+* [Why Web Components?](http://webcomponents.org/articles/why-web-components/) by Zeno Rocha and Addy Osmani.
+* [Extending Styles](http://philipwalton.com/articles/extending-styles/) by Philip Walton.
+
 
 ## Podcasts
 
@@ -135,18 +139,9 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 *Libraries and frameworks related with Web Components*
 
-### Bosonic
-
-* [Bosonic Site](http://bosonic.github.io/).
-
-### X-Tags
-
-* [X-tags Site](http://www.x-tags.org/) by Mozilla.
-* [Brick](http://brick.mozilla.io/) by Mozilla.
-
 ### Polymer
 
-* [Polymer Project](http://bosonic.github.io/) by Google.
+* [Polymer Project](https://www.polymer-project.org) by Google.
 * [Join the Web Components revolution with Polymer](http://www.ibm.com/developerworks/library/wa-polymer/) by Sing Li.
 * [Introduction to Polymer: The Next Generation of Web Development](https://www.youtube.com/watch?v=8-Zq2KUN6jM) by Matthew McNulty.
 * [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) by Rob Dodson.
@@ -166,7 +161,20 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Creating a Polymer Chat App with Material Design](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/) by Tomomi Imura.
 * [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/).
 * [Built with Polymer](http://builtwithpolymer.org/).
-* [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:
+* [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:v
+
+### Bosonic
+
+* [Bosonic Site](http://bosonic.github.io/).
+
+### X-Tags
+
+* [X-tags Site](http://www.x-tags.org/) by Mozilla.
+* [Brick](http://brick.mozilla.io/) by Mozilla.
+
+### SkateJS
+
+* [SkateJS Repo](https://github.com/skatejs/skatejs)
 
 ## Components
 
@@ -174,6 +182,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [Github Time Elements](https://github.com/github/time-elements) by GitHub.
 * [Router Manager](https://github.com/erikringsmuth/app-router) by Erik Ringsmuth.
+* [Polymer Elements Catalog](https://elements.polymer-project.org/)
 
 ## WebComponents.org
 

@@ -94,6 +94,9 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [WebApps com Web Components (pt-br)](https://speakerdeck.com/obetomuniz/webapps-com-web-components) by Beto Muniz.
 * [Web Components, A próxima revolução do desenvolvimento web (pt-br)](https://speakerdeck.com/obetomuniz/web-components-a-proxima-revolucao-do-desenvolvimento-web) by Beto Muniz.
 * [Tudo que você precisa saber para iniciar com Polymer e Webcomponents (pt-br)](https://www.youtube.com/watch?v=CwiTIYBUHTY) by GDG Belo Horizonte.
+* [Polymer and modern web APIs: In production at Google scale](http://webcomponents.org/presentations/polymer-and-modern-web-apis-at-google-io/)
+* [What are Custom Elements?](http://webcomponents.org/presentations/what-are-custom-elements/)
+* [The cure for your Web Components hangover](http://webcomponents.org/presentations/the-cure-for-your-web-components-hangover-at-jquery-uk/)
 
 ## Articles
 

@@ -17,6 +17,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Bosonic](#bosonic)
         - [X-tags](#x-tags)
         - [Polymer](#polymer)
+        - [Aurelia](#aurelia)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Twitter](#twitter)
@@ -176,6 +177,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [SkateJS Repo](https://github.com/skatejs/skatejs)
 
+### Aurelia
+
+* [Aurelia Site](http://aurelia.io/).
+
 ## Components
 
 *Some Web Components*
@@ -227,3 +232,4 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 ## Contributing
 
 Your contributions are always welcome!
+

@@ -11,6 +11,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Acessibility](#acessibility)
     - [Presentations](#presentations)
     - [Articles](#articles)
+    - [Podcasts](#podcasts)
     - [Web Tools](#web-tools)
     - [Libraries and Frameworks](#libraries-and-frameworks)
         - [Bosonic](#bosonic)
@@ -106,6 +107,13 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Desmistificando o Polymer: Olá Polymer! (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-1/) by Beto Muniz.
 * [Desmistificando o Polymer: Porque o Polymer? (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-2/) by Beto Muniz.
 * [Desmistificando o Polymer: Polymer FAQ (unoffical) (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-3/) by Beto Muniz.
+
+## Podcasts
+
+*Podcasts about Web Components*
+
+* [WebComponents.org Podcasts](http://webcomponents.org/podcasts/)
+* [Polymer Podcasts](http://www.polymerpodcast.com/)
 
 ## Web Tools
 

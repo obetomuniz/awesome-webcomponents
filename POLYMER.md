@@ -1,5 +1,7 @@
 #Polymer
 
+*A list of links about the Polymer*
+
 
 * [Polymer Project](https://www.polymer-project.org) by Google.
 * [Join the Web Components revolution with Polymer](http://www.ibm.com/developerworks/library/wa-polymer/) by Sing Li.

@@ -64,6 +64,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Plans for supporting Web Components in AngularJS and Ember.js](http://www.2ality.com/2013/05/web-components-angular-ember.html) by Dr. Axel Rauschmayer.
 * [Angular Custom Element](https://github.com/dgs700/angular-custom-element) by David Shapiro.
 * [Integrating Web Components with AngularJS](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) by Pascal Precht.
+* [View Encapsulation in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html) by Pascal Precht.
 
 ## SEO
 

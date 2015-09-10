@@ -115,6 +115,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Discoverability for Web Components](https://medium.com/@zenorocha/discoverability-for-web-components-72ce29f128b2) by Zeno Rocha.
 * [Why Web Components?](http://webcomponents.org/articles/why-web-components/) by Zeno Rocha and Addy Osmani.
 * [Extending Styles](http://philipwalton.com/articles/extending-styles/) by Philip Walton.
+* [What happened to Web Components?](http://www.2ality.com/2015/08/web-component-status.html)
 
 
 ## Podcasts

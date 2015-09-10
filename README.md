@@ -20,6 +20,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Aurelia](#aurelia)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
+    - [Community](#community)
     - [Twitter](#twitter)
     - [Contributing](#contributing)
 
@@ -212,6 +213,22 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Articles](http://webcomponents.org/articles/).
 * [Presentations](http://webcomponents.org/presentations/).
 * [Github](https://github.com/webcomponents).
+
+## Community
+
+*Events, Meetups, etc.*
+
+* [Web Components & Polymer Meetup - Belo Horizonte](http://www.meetup.com/Web-Components-Polymer-Belo-Horizonte/)
+* [Web Components Meetup - Paris](http://www.meetup.com/paris-webComponents)
+* [Web Components Meetup - Los Angeles](http://www.meetup.com/Web-Components-LA)
+* [Web Components Meetup - London](http://www.meetup.com/web-components-meetup)
+* [Polymer Meetup - Madrid](http://www.meetup.com/Madrid-Polymer-Group)
+* [Polymer Meetup - Melbourne](http://www.meetup.com/Melbourne-Polymer-Meetup)
+* [Polymer Meetup - Washington, DC](http://www.meetup.com/polymer-dc)
+* [Web Components Meetup - Washington, DC](http://www.meetup.com/DC-Web-Components)
+* [Web Components Meetup - Buenos Aires](http://www.meetup.com/Web-Components-BA)
+* [GDG PolymerMexico!](http://www.meetup.com/PolymerMex)
+* [Polymer Summit](https://www.polymer-project.org/summit)
 
 ## Twitter
 

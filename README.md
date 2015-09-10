@@ -97,6 +97,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Polymer and modern web APIs: In production at Google scale](http://webcomponents.org/presentations/polymer-and-modern-web-apis-at-google-io/)
 * [What are Custom Elements?](http://webcomponents.org/presentations/what-are-custom-elements/)
 * [The cure for your Web Components hangover](http://webcomponents.org/presentations/the-cure-for-your-web-components-hangover-at-jquery-uk/)
+* [Why you should be using Web Components now. And how.](http://webcomponents.org/presentations/why-you-should-be-using-web-components-and-how-at-devweek/)
 
 ## Articles
 
@@ -165,7 +166,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Creating a Polymer Chat App with Material Design](http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/) by Tomomi Imura.
 * [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/).
 * [Built with Polymer](http://builtwithpolymer.org/).
-* [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:v
+* [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:
 
 ### Bosonic
 

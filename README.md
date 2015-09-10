@@ -104,6 +104,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [What are Custom Elements?](http://webcomponents.org/presentations/what-are-custom-elements/)
 * [The cure for your Web Components hangover](http://webcomponents.org/presentations/the-cure-for-your-web-components-hangover-at-jquery-uk/)
 * [Why you should be using Web Components now. And how.](http://webcomponents.org/presentations/why-you-should-be-using-web-components-and-how-at-devweek/)
+* [The Road to Native Web Components](http://www.modernwebui.org/category/web-components/)
 
 ## Articles
 

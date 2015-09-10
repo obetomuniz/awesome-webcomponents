@@ -71,14 +71,15 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [Introducing Web Components and What It Means for Search Engine Optimization and Privacy](https://medium.com/cool-code-pal/introducing-web-components-and-what-it-means-for-search-engine-optimization-and-privacy-b21bfc1f63c7).
 
-## Acessibility
+## Accessibility
 
-*Acessibility and Web Components*
+*Accessibility and Web Components*
 
 * [Accessibility of Web Components](http://webcomponents.org/presentations/accessibility-of-web-components-at-jsconf-us/) by Marcy Sutton.
 * [Accessible Web Components](https://www.polymer-project.org/0.5/articles/accessible-web-components.html) by By Addy Osmani and Alice Boxhall.
 * [Notes on Web Components + ARIA](http://www.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/) by Steve Faulkner.
 * [Making Polymer Elements Accessible](http://webcomponents.org/presentations/making-polymer-elements-accessible/) by Alice Boxhall.
+* [On the accessibility of web components. Again.](http://www.brucelawson.co.uk/2014/on-the-accessibility-of-web-components-again/) by Bruce Lawson
 
 ## Presentations
 

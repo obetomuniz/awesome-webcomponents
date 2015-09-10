@@ -116,6 +116,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Why Web Components?](http://webcomponents.org/articles/why-web-components/) by Zeno Rocha and Addy Osmani.
 * [Extending Styles](http://philipwalton.com/articles/extending-styles/) by Philip Walton.
 * [What happened to Web Components?](http://www.2ality.com/2015/08/web-component-status.html)
+* [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 
 
 ## Podcasts
@@ -238,4 +239,3 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 ## Contributing
 
 Your contributions are always welcome!
-

@@ -67,6 +67,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [View Encapsulation in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html) by Pascal Precht.
 * [Creating Container Components, Part 3: Angular 2 Component Directives](https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives) by Kara Erickson
 * [A Bet on Web Components and Ember.Component Synchronicity](http://pixelhandler.com/posts/a-bet-on-web-components-and-embercomponent-synchronicity) by pixelhandler
+* [Web Components in Angular, Ember, and React.](http://cbateman.com/blog/web-components-in-angular-ember-and-react/) by Chris Bateman
 
 ## SEO
 

@@ -68,6 +68,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Creating Container Components, Part 3: Angular 2 Component Directives](https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives) by Kara Erickson
 * [A Bet on Web Components and Ember.Component Synchronicity](http://pixelhandler.com/posts/a-bet-on-web-components-and-embercomponent-synchronicity) by pixelhandler
 * [Web Components in Angular, Ember, and React.](http://cbateman.com/blog/web-components-in-angular-ember-and-react/) by Chris Bateman
+* [Using Polymer WebComponents with Angular.js](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/) by Josh Crowther
 
 ## SEO
 

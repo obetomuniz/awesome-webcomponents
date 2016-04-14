@@ -17,6 +17,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Bosonic](#bosonic)
         - [X-tags](#x-tags)
         - [Polymer](#polymer)
+        - [ReactJS](#reactjs)
+        - [SkateJS](#skatejs)
         - [Aurelia](#aurelia)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
@@ -186,6 +188,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [X-tags Site](http://www.x-tags.org/) by Mozilla.
 * [Brick](http://brick.mozilla.io/) by Mozilla.
+
+### ReactJS
+
+* [Keo](https://github.com/Wildhoney/Keo) for Shadow DOM.
+* [Standalone](https://github.com/Wildhoney/Standalone) for Custom Elements.
 
 ### SkateJS
 

@@ -20,6 +20,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [ReactJS](#reactjs)
         - [SkateJS](#skatejs)
         - [Aurelia](#aurelia)
+        - [Switzerland](#switzerland)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Community](#community)
@@ -201,6 +202,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 ### Aurelia
 
 * [Aurelia Site](http://aurelia.io/).
+
+### Switzerland
+
+* [Switzerland](https://github.com/Wildhoney/Switzerland)
 
 ## Components
 

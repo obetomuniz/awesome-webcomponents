@@ -57,6 +57,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [EXTENDING THE WEB WITH COMPONENTS](http://html5hub.com/extending-the-web-with-components/#i.1in3tsi34tfhwy) by Martin Naumann.
 * [Web Components](http://blog.romanliutikov.com/post/62104274790/web-components)
 * [A Guide to Styling Elements](https://www.polymer-project.org/0.5/articles/styling-elements.html) by Eric Bidelman .
+* [Web Components in Action (book)](https://www.manning.com/books/web-components-in-action) by Ben Farrell.
 
 ## Interop
 

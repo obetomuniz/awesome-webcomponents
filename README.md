@@ -22,6 +22,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Aurelia](#aurelia)
         - [Switzerland](#switzerland)
         - [VueJS](#vuejs)
+        - [Mithril](#mithril)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Community](#community)
@@ -212,6 +213,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 ### VueJS
 
 * [VueJS](https://github.com/vuejs) Main Repository
+
+### Mithril
+
+* [Mithril](https://mithril.js.org) Main Repository
 
 ## Components
 

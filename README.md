@@ -8,25 +8,29 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Guides](#guides)
     - [Interop](#interop)
     - [SEO](#seo)
-    - [Acessibility](#acessibility)
+    - [Accessibility](#accessibility)
     - [Presentations](#presentations)
     - [Articles](#articles)
     - [Podcasts](#podcasts)
     - [Web Tools](#web-tools)
     - [Libraries and Frameworks](#libraries-and-frameworks)
-        - [Bosonic](#bosonic)
-        - [X-tags](#x-tags)
         - [Polymer](#polymer)
         - [Slim-JS](#slimjs)
+        - [Bosonic](#bosonic)
+        - [X-Tags](#x-tags)
         - [ReactJS](#reactjs)
         - [SkateJS](#skatejs)
         - [Aurelia](#aurelia)
         - [Switzerland](#switzerland)
+        - [VueJS](#vuejs)
+        - [Mithril](#mithril)
+        - [Angular](#angular)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Community](#community)
     - [Twitter](#twitter)
     - [Contributing](#contributing)
+    - [License](#license)
 
 ## Specifications
 
@@ -212,6 +216,18 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 ### Switzerland
 
 * [Switzerland](https://github.com/Wildhoney/Switzerland)
+
+### VueJS
+
+* [VueJS](https://github.com/vuejs) Main Repository
+
+### Mithril
+
+* [Mithril](https://mithril.js.org) Main Repository
+
+### Angular 
+
+* [Angular](https://angularjs.org/) Main Repository
 
 ## Components
 

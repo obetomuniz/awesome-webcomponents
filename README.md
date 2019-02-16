@@ -15,6 +15,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
     - [Web Tools](#web-tools)
     - [Libraries and Frameworks](#libraries-and-frameworks)
         - [Polymer](#polymer)
+        - [Slim-JS](#slimjs)
         - [Bosonic](#bosonic)
         - [X-Tags](#x-tags)
         - [ReactJS](#reactjs)
@@ -193,6 +194,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [X-tags Site](http://www.x-tags.org/) by Mozilla.
 * [Brick](http://brick.mozilla.io/) by Mozilla.
+
+### Slim-JS
+
+* [Slim-JS Documentation](http://slimjs.com)
+* [Git repository](https://github.com/eavichay/slim.js)
 
 ### ReactJS
 

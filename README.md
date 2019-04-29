@@ -230,6 +230,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [Angular](https://angularjs.org/) Main Repository
 
+### Bit
+
+* [Bit](https://github.com/teambit/bit) component development, reuse and collaboration tool
+
 ## Components
 
 *Some Web Components*

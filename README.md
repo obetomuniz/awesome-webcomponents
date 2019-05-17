@@ -236,6 +236,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Stencil.js site](https://stenciljs.com/)
 * [Git repository](https://github.com/ionic-team/stencil)
 
+### Bit
+
+* [Bit](https://github.com/teambit/bit) component development, reuse and collaboration tool
+
 ## Components
 
 *Some Web Components*

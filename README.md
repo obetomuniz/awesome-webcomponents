@@ -25,6 +25,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [VueJS](#vuejs)
         - [Mithril](#mithril)
         - [Angular](#angular)
+        - [Stencil.js](#stenciljs)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Community](#community)
@@ -229,6 +230,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 ### Angular 
 
 * [Angular](https://angularjs.org/) Main Repository
+
+### Stencil.js 
+
+* [Stencil.js site](https://stenciljs.com/)
+* [Git repository](https://github.com/ionic-team/stencil)
 
 ### Bit
 

@@ -240,6 +240,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [Bit](https://github.com/teambit/bit) component development, reuse and collaboration tool
 
+### NuML
+
+* [NuML site & storybook](https://numl.design) style-oriented framework and design system
+* [NuML repository](https://github.com/tenphi/numl)
+
 ## Components
 
 *Some Web Components*

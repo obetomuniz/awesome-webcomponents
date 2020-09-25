@@ -129,7 +129,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Web Components! Hoje!](http://betomuniz.com/blog/web-components-hoje/) by Beto Muniz.
 * [Desmistificando o Polymer: Olá Polymer! (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-1/) by Beto Muniz.
 * [Desmistificando o Polymer: Porque o Polymer? (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-2/) by Beto Muniz.
-* [Desmistificando o Polymer: Polymer FAQ (unoffical) (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-3/) by Beto Muniz.
+* [Desmistificando o Polymer: Polymer FAQ (unofficial) (pt-br)](http://betomuniz.com/blog/desmistificando-o-polymer-parte-3/) by Beto Muniz.
 * [Discoverability for Web Components](https://medium.com/@zenorocha/discoverability-for-web-components-72ce29f128b2) by Zeno Rocha.
 * [Why Web Components?](http://webcomponents.org/articles/why-web-components/) by Zeno Rocha and Addy Osmani.
 * [Extending Styles](http://philipwalton.com/articles/extending-styles/) by Philip Walton.

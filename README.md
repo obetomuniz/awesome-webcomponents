@@ -37,15 +37,16 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 *Specifications of Web Components*
 
-* [Official Custom Elements Spec](http://w3c.github.io/webcomponents/spec/custom/)
-* [Official HTML Imports Spec](http://w3c.github.io/webcomponents/spec/imports/)
+* [Official Custom Elements Spec](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements)
+* [Official HTML Imports Spec](https://www.w3.org/TR/html-imports/)
 * [Official Templates  Spec](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-* [Official Shadow DOM Spec](http://w3c.github.io/webcomponents/spec/shadow/)
+* [Official Shadow DOM Spec](https://www.w3.org/TR/shadow-dom/)
 
 ## Web Standards
 
 *Resources about the web standards under Web Components*
 
+* [Web Components 101: What are Web Components?](https://nhswd.com/blog/web-components-101-what-are-web-components)
 * [Intro to Shadow DOM](http://code.tutsplus.com/tutorials/intro-to-shadow-dom--net-34966) by Agraj Mangal.
 * [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) by Eric Bidelman.
 * [Can I use Web Components?](http://caniuse.com/#search=web%20components).
@@ -56,6 +57,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 *Guides about Web Components*
 
+* [Tutorial: How to create a Web Component?](https://nhswd.com/blog/web-components-101-tutorial-how-to-create-a-web-component)
 * [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/) by Rob Dodson.
 * [How to Create Your Own HTML Elements With Web Components](http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524) by Kezz Bracey.
 * [Web Components é uma Revolução? (pt-br)](http://www.akitaonrails.com/2014/07/06/web-components-e-uma-revolucao#.VULzLNNVhBe) by Akita.
@@ -121,6 +123,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 *Articles about Web Components*
 
+* [Why use Web Components?](https://nhswd.com/blog/web-components-101-tutorial-why-use-web-components)
+* [Web Components expert articles](https://nhswd.com/blog/category/web-components)
 * [Why Web Components Aren’t Ready for Production… Yet](http://developer.telerik.com/featured/web-components-arent-ready-production-yet/) by TJ VanToll.
 * [Why Web Components Are Ready For Production](http://developer.telerik.com/featured/web-components-ready-production/) by TJ VanToll.
 * [The State of the Componentised Web](http://www.futureinsights.com/home/the-state-of-the-componentised-web.html) by Ian Murphy.
@@ -309,6 +313,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [@nevir](https://twitter.com/nevir)
 * [@keanulee](https://twitter.com/cironunes)
 * [@obetomuniz](https://twitter.com/obetomuniz)
+* [@stefannhs](https://twitter.com/stefannhs)
 
 ## Contributing
 

@@ -251,6 +251,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [NuML site & storybook](https://numl.design) style-oriented framework and design system
 * [NuML repository](https://github.com/tenphi/numl)
 
+### Lego
+
+* [Lego site](https://lego.js.org) native web-components made light and reactive
+* [Lego repository](https://github.com/Polight/lego)
+
 ## Components
 
 *Some Web Components*

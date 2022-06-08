@@ -155,6 +155,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 
 * [WebComponents.dev](https://webcomponents.dev/) — in-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
 * [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. 
+* [Web Component DevTools](https://matsuuu.github.io/web-component-devtools/) Browser extension improving debugging web components
 * [Web Reflection: A W3C Custom Elements Alternative](http://webreflection.blogspot.com.br/2014/07/a-w3c-custom-elements-alternative.html) by Web Reflection.
 * [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/).
 * [Vulcanize](https://github.com/Polymer/vulcanize) by Polymer Project.

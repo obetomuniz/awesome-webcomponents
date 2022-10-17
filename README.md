@@ -119,6 +119,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Why you should be using Web Components now. And how.](http://webcomponents.org/presentations/why-you-should-be-using-web-components-and-how-at-devweek/)
 * [The Road to Native Web Components](http://www.modernwebui.org/category/web-components/)
 * [Componentes como peças de lego](https://www.youtube.com/watch?v=EW7cw96h0LQ) by Diego Haz
+* [Rip Your Player's Face Off](https://www.youtube.com/watch?v=N6Mh84SRoDg&ab_channel=Demuxed) by Steve Heffernan
 
 ## Articles
 
@@ -140,6 +141,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Extending Styles](http://philipwalton.com/articles/extending-styles/) by Philip Walton.
 * [What happened to Web Components?](http://www.2ality.com/2015/08/web-component-status.html)
 * [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
+* [HTML, the Hero of the Web](https://www.mux.com/blog/html-the-hero-of-the-web) by Wesley Luyten
 
 
 ## Podcasts
@@ -266,6 +268,8 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Router Manager](https://github.com/erikringsmuth/app-router) by Erik Ringsmuth.
 * [Polymer Elements Catalog](https://elements.polymer-project.org/)
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) by Joselito Júnior
+* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) by Mux, Inc.
+* [Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) by Mux, Inc.
 
 ## WebComponents.org
 

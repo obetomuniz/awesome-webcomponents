@@ -269,7 +269,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Polymer Elements Catalog](https://elements.polymer-project.org/)
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) by Joselito Júnior
 * [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) by Mux, Inc.
-* [Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) by Mux, Inc.
+* [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) by Mux, Inc.
 
 ## WebComponents.org
 

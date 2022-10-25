@@ -1,6 +1,6 @@
 # Awesome Web Components
 
-A curated list of awesome Web Components tools, articles and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/avelino/awesome-python).
+A curated list of awesome Web Components tools, articles and resources. 
 
 - [Awesome Web Components](#awesome-web-components)
     - [Specifications](#specifications)
@@ -312,7 +312,6 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [@web_components](https://twitter.com/web_components)
 * [@ebidel](https://twitter.com/ebidel)
 * [@jkomoros](https://twitter.com/jkomoros)
-* [@zenorocha](https://twitter.com/zenorocha)
 * [@addyosmani](https://twitter.com/addyosmani)
 * [@PascalPrecht](https://twitter.com/PascalPrecht)
 * [@csuwildcat](https://twitter.com/csuwildcat)
@@ -335,3 +334,7 @@ Your contributions are always welcome!
 ## License
 
 [MIT License](http://betomuniz.mit-license.org) © Beto Muniz
+
+## Inspiration
+
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/avelino/awesome-python).

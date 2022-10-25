@@ -292,7 +292,6 @@ A curated list of awesome Web Components tools, articles and resources.
 
 *Events, Meetups, etc.*
 
-* [Belo Horizonte - Web Components & Polymer Meetup](http://www.meetup.com/Web-Components-Polymer-Belo-Horizonte/)
 * [Buenos Aires - Web Components Meetup](http://www.meetup.com/Web-Components-BA)
 * [Paris - Web Components Meetup](http://www.meetup.com/paris-webComponents)
 * [London - Web Components Meetup](http://www.meetup.com/web-components-meetup)
@@ -310,22 +309,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 * [@polymer](https://twitter.com/polymer)
 * [@web_components](https://twitter.com/web_components)
-* [@ebidel](https://twitter.com/ebidel)
-* [@jkomoros](https://twitter.com/jkomoros)
-* [@addyosmani](https://twitter.com/addyosmani)
-* [@PascalPrecht](https://twitter.com/PascalPrecht)
-* [@csuwildcat](https://twitter.com/csuwildcat)
-* [@rob_dodson](https://twitter.com/rob_dodson)
-* [@sindresorhus](https://twitter.com/sindresorhus)
-* [@eduardolundgren](https://twitter.com/eduardolundgren)
-* [@djalmaaraujo](https://twitter.com/djalmaaraujo)
-* [@passy](https://twitter.com/passy)
-* [@djalmaaraujo](https://twitter.com/djalmaaraujo)
-* [@Nevraeka](https://twitter.com/Nevraeka)
-* [@nevir](https://twitter.com/nevir)
-* [@keanulee](https://twitter.com/cironunes)
-* [@obetomuniz](https://twitter.com/obetomuniz)
-* [@stefannhs](https://twitter.com/stefannhs)
+* [@buildWithLit](https://twitter.com/buildWithLit)
 
 ## Contributing
 

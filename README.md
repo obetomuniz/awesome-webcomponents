@@ -26,6 +26,7 @@ A curated list of awesome Web Components tools, articles and resources.
         - [Mithril](#mithril)
         - [Angular](#angular)
         - [Stencil.js](#stenciljs)
+        - [ComponentForge](#ComponentForge)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Community](#community)
@@ -246,6 +247,14 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Stencil.js site](https://stenciljs.com/)
 * [Git repository](https://github.com/ionic-team/stencil)
 
+### ComponentForge
+
+* [ComponentForge site](https://componentForge.up.railway.app/)
+* [Git repository](https://github.com/darshanmarathe/componentForge)
+* [Web components built with ComponentForge](https://dm-cf-components.netlify.app/)
+* [Wny i wrote ComponentForge](https://medium.com/@darshanmarathe/why-i-wrote-my-own-web-component-framework-ComponentForge-8a8a2f7ca578)
+
+
 ### Bit
 
 * [Bit](https://github.com/teambit/bit) component development, reuse and collaboration tool
@@ -270,6 +279,8 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) by Joselito Júnior
 * [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) by Mux, Inc.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) by Mux, Inc.
+* [ComponentForge Web Components)](https://dm-cf-components.netlify.app/) by Darshan Marathe.
+
 
 ## WebComponents.org
 

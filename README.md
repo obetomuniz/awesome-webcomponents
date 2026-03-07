@@ -282,6 +282,7 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) by Mux, Inc.
 * [ComponentForge Web Components](https://dm-cf-components.netlify.app/) by Darshan Marathe.
 * [Image Display Control](https://github.com/Frameright/image-display-control-web-component) by Frameright.
+* [Changelog Widget](https://github.com/NikitaDmitrieff/changelog-widget) - Embeddable changelog widget built with Web Components (Shadow DOM, zero dependencies, framework-agnostic).
 
 
 ## WebComponents.org

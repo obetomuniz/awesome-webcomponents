@@ -270,6 +270,11 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Lego site](https://lego.js.org) native web-components made light and reactive
 * [Lego repository](https://github.com/Polight/lego)
 
+### Snice
+
+* [Snice site](https://snice.dev) elegant decorators for building web components declaratively or imperatively
+* [Snice repository](https://gitlab.com/Hedzer/snice)
+
 ## Components
 
 *Some Web Components*

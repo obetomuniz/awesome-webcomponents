@@ -282,6 +282,7 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) by Mux, Inc.
 * [ComponentForge Web Components](https://dm-cf-components.netlify.app/) by Darshan Marathe.
 * [Image Display Control](https://github.com/Frameright/image-display-control-web-component) by Frameright.
+* [Live Photo Component](https://github.com/Feirobot/live-photo-component) by Feirobot.
 
 
 ## WebComponents.org
